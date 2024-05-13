@@ -1,0 +1,40 @@
+h1{
+    margin-top: 15px ; /* Define a altura da marngem até o texto  */
+  --pico-font-size: 1rem;/* Define o tamanho das letras */
+  --pico-font-family: arial ;/* Define a fonte*/
+  --pico-font-weight: 10; /* Define a espessura da letra*/
+  --pico-typography-spacing-vertical: 0.5rem; /* Define o espaçamento vertical entre linhas */
+  }
+
+  h2{
+  --pico-font-size: 2rem; /* Define o tamanho das letras */
+  --pico-margin-bottom: 20px; /* Define a margem inferior */
+  --pico-font-family: arial ; /* Define a família da fonte */
+  --pico-font-weight: 10; /* Define o peso da fonte */
+  --pico-typography-spacing-vertical: 0.5rem; /* Define o espaçamento vertical entre linhas */
+  }
+  .color{
+    color: #ffffff; /* Define a cor do texto para a classe 'framework-color' como branco */
+   }
+   
+   nav ul {
+       list-style-type: none; /* Remove o estilo padrão da lista não ordenada */
+       margin: 0;  /* Remove as margens da lista não ordenada */
+       padding: 0  40px; /* Define o preenchimento (espaço interno) da lista não ordenada */
+     }
+     
+     nav ul li {
+       display: inline-block; /* Define os itens da lista como elementos em linha */
+     }
+     
+     nav ul li a {
+       text-decoration: none; /* Remove a decoração dos links */
+     --pico-color: rgb(73, 219, 219); /* Cor dos links */
+       padding: 5px 10px; /* Espaçamento interno dos links */
+     }
+     
+     nav ul li a:hover {
+       --pico-background-color: #ffffff; /* Cor de fundo ao passar o mouse */
+     }
+   
+   
