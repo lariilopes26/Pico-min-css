@@ -1,0 +1,70 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+
+header{
+
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.integrantes-container{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 2vw;
+    padding: 0 1vw;
+    font-size: 20px;
+    
+}
+
+.itens{
+
+    width: 180px;
+    height: 180px;
+    flex-grow: 1;
+    transition: transform .5s linear;
+}
+
+.itens img{
+
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border: 7px solid rgb(22, 120, 133);
+    object-fit: cover;
+    margin-top: 250px ;
+}
+
+.itens:hover{
+
+    transform: scale(1.3);
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0  40px;
+  }
+  
+  nav ul li {
+    display: inline-block;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+  --pico-color: rgb(73, 219, 219); /* Cor dos links */
+    padding: 5px 10px; /* Espaçamento interno dos links */
+  }
+  
+  nav ul li a:hover {
+    --pico-background-color: #ffffff; /* Cor de fundo ao passar o mouse */
+  }
