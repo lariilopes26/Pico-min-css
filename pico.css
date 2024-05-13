@@ -1,0 +1,57 @@
+
+body{
+    --pico-font-family: Pacifico, cursive;/* Define uma variável CSS para a fonte do texto */
+
+  }
+
+.img{
+width: 50%;/* Define a largura das imagens para 50% */
+margin-left: 270px; /* Define a margem esquerda das imagens como 270 pixels */
+}
+  h1{
+    margin-top: 60px ; /* Define a margem superior do título h1 como 60 pixels */
+    text-align: center; /* Centraliza o texto do título h1 */
+  --pico-font-size: 5rem;/* Define o tamanho das letras  do titulo h1*/
+  --pico-h1-color: white ; /* Define a cor do texto do título h1 como branco */
+  --pico-font-family: Impact, fantasy;/* Define a fonte do texto do título h1 */
+  --pico-font-weight: 700; /* Define o peso da fonte do texto do título h1 */
+  --pico-typography-spacing-vertical: 0.5rem; /* Define o espaçamento vertical do texto do título h1 */
+
+}
+
+h2{
+    text-align: center;/* Centraliza o texto do título h2 */
+  --pico-font-family: Impact, fantasy;/* Define a fonte do texto do título h2 */
+  --pico-font-size: 3.50rem;/* Define o tamanho das letras do título h2 */
+  --pico-font-weight: 400;/* Define o peso da fonte do texto do título h2 */
+  --pico-h2-color: white;/* Define a cor do texto do título h2 como branco */
+  --pico-typography-spacing-vertical: 0.5rem; /* Define o espaçamento vertical do texto do título h2 */
+}
+
+.framework-color{
+ color: #ffffff; /* Define a cor do texto para a classe 'framework-color' como branco */
+}
+
+nav ul {
+--pico-list-style-type: none;/* Remove o estilo padrão da lista não ordenada */
+    margin: 0; /* Remove as margens da lista não ordenada */
+    padding: 0  40px;  /* Define o preenchimento (espaço interno) da lista não ordenada */
+  }
+  
+  
+  nav ul li {
+    display: inline-block; /* Define os itens da lista como elementos em linha */
+  }
+  
+  nav ul li a {
+   text-decoration: none; /* Remove a decoração dos links */
+  --pico-color: rgb(73, 219, 219); /* Cor dos links */
+    padding: 5px 10px; /* Espaçamento interno dos links */
+  }
+  
+  nav ul li a:hover {
+    --pico-background-color: #ffffff; /* Cor de fundo ao passar o mouse sobre os links */
+  }
+
+
+  
