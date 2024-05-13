@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../imagens/icone.png" type="image/x-icon">
+    <title>Utilização</title>
+    <link rel="stylesheet" href="/css/pico.min.css">
+    <link rel="stylesheet" href="pico2.css">
+
+</head>
+<body>
+  <nav>
+    <ul>
+      <li class="color"><strong>Pico css</strong></li>
+    </ul>
+    <ul>
+      
+      <li><a href="paginaprincipal.html">Pagina Principal</a></li>
+      <li><a href="integrantes.html">Integrantes</a></li>
+      <li><a href="sobre.html">Sobre</a></li>
+      <li><a href="maisinformações.html">Mais informações</a></li>
+      
+    </ul>
+  </nav>
+    <div class="container">
+        <div>
+          <div>
+            <h1>Utilização:</h1>
+            <h2>Onde é utilizado o Pico Css?</h2>
+            <p>O Pico CSS é uma biblioteca CSS muito leve e minimalista, então é mais comum ser utilizado em projetos menores, como sites pessoais, páginas de portfólio, blogs simples e projetos de demonstração. Empresas que estão focadas em criar páginas web simples e leves podem optar por usar o Pico CSS para fornecer estilos básicos e essenciais para seus projetos.</p>
+            <p>No entanto, devido à sua natureza minimalista, é menos comum encontrar grandes empresas ou projetos corporativos que dependam exclusivamente do Pico CSS para estilização. Grandes empresas geralmente têm necessidades de estilização mais complexas e podem preferir bibliotecas CSS mais robustas e abrangentes, como Bootstrap, Foundation, Tailwind CSS, entre outras.</p>
+            <p>Portanto, embora o Pico CSS possa ser utilizado por uma variedade de desenvolvedores e empresas, é mais comumente encontrado em projetos menores e mais simples, onde a leveza e a simplicidade são prioridades.
+            <h3>Como pode ser utilizado nas empresas:</h3>
+            <li>Landing pages;</li>
+            <li>Paginas de Produtos;</li>
+            <li>Paginas de contato e comunicação;</li>
+            <li>Paginas de apresentação de equipes;</li>
+            <li>Blogs;</li>
+            <li>FAQS.</li>
+
+
+
+
+
+</p>
+
+
+
+
+
+    
+</body>
+</html>
